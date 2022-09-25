@@ -1,0 +1,196 @@
+.heading {
+  width: 100vw;
+  height: 28px;
+  margin-top: -15px;
+  margin-left: -20px;
+  background-image: linear-gradient(to left, yellow, green, red);
+  text-align: center;
+  font-size: 11px;
+  text-decoration: underline;
+}
+
+.menu-list {
+  width: 700px;
+  height: 60px;
+  background-color: rgb(121, 198, 198);
+  border: 3px solid brown;
+  border-radius: 10px;
+  display: flex;
+  margin: auto;
+  font-size: 16px;
+}
+
+ul {
+  margin: auto;
+}
+
+.container {
+  width: 1507px;
+  height: 130px;
+  border: 2px solid brown;
+  border-radius: 10px;
+  background-color: aquamarine;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.childcontainer {
+  width: 360px;
+  height: 50px;
+  background-color: aqua;
+  border: 2px solid green;
+  border-radius: 7px;
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  flex: 1 0 25%;
+}
+.container-next {
+  width: 360px;
+  height: 50px;
+  background-color: aqua;
+  border: 2px solid green;
+  border-radius: 7px;
+  font-size: 15px;
+  font-weight: bold;
+  flex-basis: 30%;
+  display: flex;
+  margin-left: 527px;
+  margin-bottom: 21px;
+}
+
+.childtext {
+  margin-top: -1px;
+  text-align: center;
+  padding: 1px;
+}
+
+.inlbox {
+  width: 100vw;
+  height: 28px;
+  margin-top: -15px;
+  margin-left: -20px;
+  background-image: linear-gradient(to left, red, yellow, red);
+  text-align: center;
+  font-size: 11px;
+  text-decoration: underline;
+}
+
+.maincontainer {
+  width: 1500px;
+  height: 270px;
+  border: 2px solid green;
+  background-image: radial-gradient(blue, lightgreen);
+}
+
+.child-main {
+  width: 200px;
+  height: 110px;
+  border: 2px solid brown;
+  border-radius: 10px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 90px;
+  margin-left: 140px;
+  color: brown;
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+}
+
+.features {
+  width: 1500px;
+  height: 350px;
+  margin-top: 10px;
+  border: 1px solid grey;
+  color: white;
+  display: grid;
+  grid-template-columns: 4px 1350px 100px 400px;
+  grid-template-rows: 100px 150px;
+}
+
+.inlrebox {
+  width: 1500px;
+  height: 30px;
+  background-color: crimson;
+  text-align: center;
+  color: white;
+  margin-top: 0px;
+  font-size: 11px;
+}
+
+.inrelh2 {
+  margin-top: 5px;
+}
+
+.ftbox1 {
+  width: 300px;
+  height: 50px;
+  background-color: rgb(99, 199, 99);
+  color: white;
+  font-size: 21px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.ftbox2 {
+  width: 300px;
+  height: 50px;
+  background-color: rgb(119, 119, 235);
+  color: white;
+  font-size: 21px;
+  font-weight: bold;
+  margin-left: 350px;
+  margin-top: -70px;
+}
+
+.ftbox3 {
+  width: 300px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: start;
+  margin-left: 690px;
+  margin-top: -70px;
+}
+
+.ylwbox {
+  width: 996px;
+  height: 100px;
+  background-color: rgb(233, 172, 31);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  top: 750px;
+}
+
+.sidebar {
+  text-decoration: underline;
+  width: 100px;
+  height: 250px;
+  border: 2px solid black;
+  background-color: black;
+  margin-left: 42px;
+  margin-top: 40px;
+}
+
+.ft-text {
+  width: 1500px;
+  height: 20px;
+  margin-top: 380px;
+  color: black;
+  background-color: rgb(37, 189, 189);
+  text-align: center;
+  margin-top: -21px;
+}
+
+.ft-h2 {
+  font-size: 22px;
+  margin-top: 0px;
+}
